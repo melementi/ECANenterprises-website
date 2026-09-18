@@ -1,0 +1,27 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "Marketing site for ECAN Enterprises in London, Ontario: computer hardware sales, custom PC builds, repairs and upgrades, and custom software/web development.",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/melementi/ECANenterprises-website.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/melementi/ECANenterprises-website/issues"
+  },
+  "homepage": "https://github.com/melementi/ECANenterprises-website#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.63.0"
+  }
+}
